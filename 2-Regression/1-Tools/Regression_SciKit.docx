@@ -1,0 +1,6 @@
+Firstly, the Lineerud dataset would need to be imported into the enivornment in which we are wokring with the dataset. 
+Next the dataset would be loaded into a function. The function would then have modle split some of the dataset into a training set and a test set.
+After which the model would be trained on the training set and then tested on the test set.
+The model would then plot in this case the amount of situps done to the corresponding average waistline measurement.
+    It would have to be taken into account that situps are not the only factor that affects waistline measurement. (diet, exercise, etc.)
+    This process would be repeated for the other excercise (data) and physiological variables.
